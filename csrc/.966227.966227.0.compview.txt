@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1715981495.288656859, "rt":0.30, "ut":0.16, "st":0.08}}
+{"vcselab":{"timestamp_begin":1715981495.663474091, "rt":0.32, "ut":0.20, "st":0.07}}
+{"link":{"timestamp_begin":1715981496.038991357, "rt":0.14, "ut":0.09, "st":0.05}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1715981494.794368984}
+{"VCS_COMP_START_TIME": 1715981494.794368984}
+{"VCS_COMP_END_TIME": 1715981496.331882139}
+{"VCS_USER_OPTIONS": "-l vcs.log -sverilog -debug_all -full64 ./generator.sv ./driver.sv ./monitor.sv ./scoreboard.sv ./environment.sv ./top.sv ./test.sv ./interface.sv ./accumulator.v"}
+{"vcs1": {"peak_mem": 966654}}
+{"stitch_vcselab": {"peak_mem": 966699}}

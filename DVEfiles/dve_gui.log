@@ -1,0 +1,1017 @@
+Chronologic VCS simulator copyright 1991-2018
+Contains Synopsys proprietary information.
+Compiler version O-2018.09-SP1_Full64; Runtime version O-2018.09-SP1_Full64;  Jul 31 11:33 2024
+VCD+ Writer O-2018.09-SP1_Full64 Copyright (c) 1991-2018 by Synopsys Inc.
+The file '/Users/students/cadiga/DV/850/850/inter.vpd' was opened successfully.
+coverage = 0.00%
+coverage = 0.00%
+** PASS: Reset operation successful (sum = 0)
+tr.in=0xd3
+PASS: DUT output is correct. Expected: 211, Got: 211
+tr.in=0x8c
+PASS: DUT output is correct. Expected: 351, Got: 351
+tr.in=0xe
+PASS: DUT output is correct. Expected: 365, Got: 365
+tr.in=0x2e
+PASS: DUT output is correct. Expected: 411, Got: 411
+tr.in=0xcd
+PASS: DUT output is correct. Expected: 616, Got: 616
+tr.in=0x5
+PASS: DUT output is correct. Expected: 621, Got: 621
+tr.in=0x70
+PASS: DUT output is correct. Expected: 733, Got: 733
+tr.in=0xbc
+PASS: DUT output is correct. Expected: 921, Got: 921
+tr.in=0xa8
+PASS: DUT output is correct. Expected: 1089, Got: 1089
+tr.in=0x93
+PASS: DUT output is correct. Expected: 1236, Got: 1236
+tr.in=0x7c
+PASS: DUT output is correct. Expected: 1360, Got: 1360
+tr.in=0xc4
+PASS: DUT output is correct. Expected: 1556, Got: 1556
+tr.in=0x78
+PASS: DUT output is correct. Expected: 1676, Got: 1676
+tr.in=0xb5
+PASS: DUT output is correct. Expected: 1857, Got: 1857
+tr.in=0xf1
+PASS: DUT output is correct. Expected: 2098, Got: 2098
+tr.in=0x7
+PASS: DUT output is correct. Expected: 2105, Got: 2105
+tr.in=0xcb
+PASS: DUT output is correct. Expected: 2308, Got: 2308
+tr.in=0xf2
+PASS: DUT output is correct. Expected: 2550, Got: 2550
+tr.in=0xa9
+PASS: DUT output is correct. Expected: 2719, Got: 2719
+tr.in=0x74
+PASS: DUT output is correct. Expected: 2835, Got: 2835
+tr.in=0x94
+PASS: DUT output is correct. Expected: 2983, Got: 2983
+tr.in=0xfe
+PASS: DUT output is correct. Expected: 3237, Got: 3237
+tr.in=0xb0
+PASS: DUT output is correct. Expected: 3413, Got: 3413
+tr.in=0x56
+PASS: DUT output is correct. Expected: 3499, Got: 3499
+tr.in=0x8c
+PASS: DUT output is correct. Expected: 3639, Got: 3639
+tr.in=0x7
+PASS: DUT output is correct. Expected: 3646, Got: 3646
+tr.in=0xcb
+PASS: DUT output is correct. Expected: 3849, Got: 3849
+tr.in=0x5b
+PASS: DUT output is correct. Expected: 3940, Got: 3940
+tr.in=0xfb
+PASS: DUT output is correct. Expected: 4191, Got: 4191
+tr.in=0xfb
+PASS: DUT output is correct. Expected: 4442, Got: 4442
+tr.in=0xed
+PASS: DUT output is correct. Expected: 4679, Got: 4679
+tr.in=0xe2
+PASS: DUT output is correct. Expected: 4905, Got: 4905
+tr.in=0xf5
+PASS: DUT output is correct. Expected: 5150, Got: 5150
+tr.in=0x49
+PASS: DUT output is correct. Expected: 5223, Got: 5223
+tr.in=0x81
+PASS: DUT output is correct. Expected: 5352, Got: 5352
+tr.in=0x98
+PASS: DUT output is correct. Expected: 5504, Got: 5504
+tr.in=0xe9
+PASS: DUT output is correct. Expected: 5737, Got: 5737
+tr.in=0x12
+PASS: DUT output is correct. Expected: 5755, Got: 5755
+tr.in=0xf1
+PASS: DUT output is correct. Expected: 5996, Got: 5996
+tr.in=0x5e
+PASS: DUT output is correct. Expected: 6090, Got: 6090
+tr.in=0x83
+PASS: DUT output is correct. Expected: 6221, Got: 6221
+tr.in=0xbf
+PASS: DUT output is correct. Expected: 6412, Got: 6412
+tr.in=0x63
+PASS: DUT output is correct. Expected: 6511, Got: 6511
+tr.in=0x55
+PASS: DUT output is correct. Expected: 6596, Got: 6596
+tr.in=0x2d
+PASS: DUT output is correct. Expected: 6641, Got: 6641
+tr.in=0x50
+PASS: DUT output is correct. Expected: 6721, Got: 6721
+tr.in=0x57
+PASS: DUT output is correct. Expected: 6808, Got: 6808
+tr.in=0x5f
+PASS: DUT output is correct. Expected: 6903, Got: 6903
+tr.in=0xea
+PASS: DUT output is correct. Expected: 7137, Got: 7137
+tr.in=0xc4
+PASS: DUT output is correct. Expected: 7333, Got: 7333
+tr.in=0xfb
+PASS: DUT output is correct. Expected: 7584, Got: 7584
+tr.in=0xbe
+PASS: DUT output is correct. Expected: 7774, Got: 7774
+tr.in=0xf4
+PASS: DUT output is correct. Expected: 8018, Got: 8018
+tr.in=0x76
+PASS: DUT output is correct. Expected: 8136, Got: 8136
+tr.in=0x56
+PASS: DUT output is correct. Expected: 8222, Got: 8222
+tr.in=0x6c
+PASS: DUT output is correct. Expected: 8330, Got: 8330
+tr.in=0x82
+PASS: DUT output is correct. Expected: 8460, Got: 8460
+tr.in=0x90
+PASS: DUT output is correct. Expected: 8604, Got: 8604
+tr.in=0xee
+PASS: DUT output is correct. Expected: 8842, Got: 8842
+tr.in=0x9b
+PASS: DUT output is correct. Expected: 8997, Got: 8997
+tr.in=0xfe
+PASS: DUT output is correct. Expected: 9251, Got: 9251
+tr.in=0x51
+PASS: DUT output is correct. Expected: 9332, Got: 9332
+tr.in=0x8a
+PASS: DUT output is correct. Expected: 9470, Got: 9470
+tr.in=0x98
+PASS: DUT output is correct. Expected: 9622, Got: 9622
+tr.in=0x7f
+PASS: DUT output is correct. Expected: 9749, Got: 9749
+tr.in=0x38
+PASS: DUT output is correct. Expected: 9805, Got: 9805
+tr.in=0x6
+PASS: DUT output is correct. Expected: 9811, Got: 9811
+tr.in=0x64
+PASS: DUT output is correct. Expected: 9911, Got: 9911
+tr.in=0x67
+PASS: DUT output is correct. Expected: 10014, Got: 10014
+tr.in=0xb1
+PASS: DUT output is correct. Expected: 10191, Got: 10191
+tr.in=0xb3
+PASS: DUT output is correct. Expected: 10370, Got: 10370
+tr.in=0x52
+PASS: DUT output is correct. Expected: 10452, Got: 10452
+tr.in=0x4f
+PASS: DUT output is correct. Expected: 10531, Got: 10531
+tr.in=0x66
+PASS: DUT output is correct. Expected: 10633, Got: 10633
+tr.in=0x2c
+PASS: DUT output is correct. Expected: 10677, Got: 10677
+tr.in=0xe1
+PASS: DUT output is correct. Expected: 10902, Got: 10902
+tr.in=0x30
+PASS: DUT output is correct. Expected: 10950, Got: 10950
+tr.in=0xfe
+PASS: DUT output is correct. Expected: 11204, Got: 11204
+tr.in=0x2f
+PASS: DUT output is correct. Expected: 11251, Got: 11251
+tr.in=0xd1
+PASS: DUT output is correct. Expected: 11460, Got: 11460
+tr.in=0xf1
+PASS: DUT output is correct. Expected: 11701, Got: 11701
+tr.in=0xb2
+PASS: DUT output is correct. Expected: 11879, Got: 11879
+tr.in=0xf1
+PASS: DUT output is correct. Expected: 12120, Got: 12120
+tr.in=0xe8
+PASS: DUT output is correct. Expected: 12352, Got: 12352
+tr.in=0xaf
+PASS: DUT output is correct. Expected: 12527, Got: 12527
+tr.in=0x6b
+PASS: DUT output is correct. Expected: 12634, Got: 12634
+tr.in=0xf3
+PASS: DUT output is correct. Expected: 12877, Got: 12877
+tr.in=0x39
+PASS: DUT output is correct. Expected: 12934, Got: 12934
+tr.in=0x67
+PASS: DUT output is correct. Expected: 13037, Got: 13037
+tr.in=0x9d
+PASS: DUT output is correct. Expected: 13194, Got: 13194
+tr.in=0xde
+PASS: DUT output is correct. Expected: 13416, Got: 13416
+tr.in=0xf5
+PASS: DUT output is correct. Expected: 13661, Got: 13661
+tr.in=0x9b
+PASS: DUT output is correct. Expected: 13816, Got: 13816
+tr.in=0xcb
+PASS: DUT output is correct. Expected: 14019, Got: 14019
+tr.in=0x31
+PASS: DUT output is correct. Expected: 14068, Got: 14068
+tr.in=0xef
+PASS: DUT output is correct. Expected: 14307, Got: 14307
+tr.in=0xc4
+PASS: DUT output is correct. Expected: 14503, Got: 14503
+tr.in=0x7e
+PASS: DUT output is correct. Expected: 14629, Got: 14629
+tr.in=0xb2
+PASS: DUT output is correct. Expected: 14807, Got: 14807
+tr.in=0xd4
+PASS: DUT output is correct. Expected: 15019, Got: 15019
+tr.in=0x1d
+PASS: DUT output is correct. Expected: 15048, Got: 15048
+tr.in=0x8b
+PASS: DUT output is correct. Expected: 15187, Got: 15187
+tr.in=0x1b
+PASS: DUT output is correct. Expected: 15214, Got: 15214
+tr.in=0xf0
+PASS: DUT output is correct. Expected: 15454, Got: 15454
+tr.in=0xf5
+PASS: DUT output is correct. Expected: 15699, Got: 15699
+tr.in=0xf3
+PASS: DUT output is correct. Expected: 15942, Got: 15942
+tr.in=0x1a
+PASS: DUT output is correct. Expected: 15968, Got: 15968
+tr.in=0x37
+PASS: DUT output is correct. Expected: 16023, Got: 16023
+tr.in=0x10
+PASS: DUT output is correct. Expected: 16039, Got: 16039
+tr.in=0xcf
+PASS: DUT output is correct. Expected: 16246, Got: 16246
+tr.in=0x7a
+PASS: DUT output is correct. Expected: 16368, Got: 16368
+tr.in=0x52
+PASS: DUT output is correct. Expected: 16450, Got: 16450
+tr.in=0x2c
+PASS: DUT output is correct. Expected: 16494, Got: 16494
+tr.in=0x20
+PASS: DUT output is correct. Expected: 16526, Got: 16526
+tr.in=0xd
+PASS: DUT output is correct. Expected: 16539, Got: 16539
+tr.in=0x7d
+PASS: DUT output is correct. Expected: 16664, Got: 16664
+tr.in=0x53
+PASS: DUT output is correct. Expected: 16747, Got: 16747
+tr.in=0xdd
+PASS: DUT output is correct. Expected: 16968, Got: 16968
+tr.in=0x2f
+PASS: DUT output is correct. Expected: 17015, Got: 17015
+tr.in=0x26
+PASS: DUT output is correct. Expected: 17053, Got: 17053
+tr.in=0xa2
+PASS: DUT output is correct. Expected: 17215, Got: 17215
+tr.in=0x48
+PASS: DUT output is correct. Expected: 17287, Got: 17287
+tr.in=0x8
+PASS: DUT output is correct. Expected: 17295, Got: 17295
+tr.in=0x96
+PASS: DUT output is correct. Expected: 17445, Got: 17445
+tr.in=0x19
+PASS: DUT output is correct. Expected: 17470, Got: 17470
+tr.in=0x3f
+PASS: DUT output is correct. Expected: 17533, Got: 17533
+tr.in=0xba
+PASS: DUT output is correct. Expected: 17719, Got: 17719
+tr.in=0xab
+PASS: DUT output is correct. Expected: 17890, Got: 17890
+tr.in=0xba
+PASS: DUT output is correct. Expected: 18076, Got: 18076
+tr.in=0x6b
+PASS: DUT output is correct. Expected: 18183, Got: 18183
+tr.in=0xf3
+PASS: DUT output is correct. Expected: 18426, Got: 18426
+tr.in=0x84
+PASS: DUT output is correct. Expected: 18558, Got: 18558
+tr.in=0x17
+PASS: DUT output is correct. Expected: 18581, Got: 18581
+tr.in=0x33
+PASS: DUT output is correct. Expected: 18632, Got: 18632
+tr.in=0x5f
+PASS: DUT output is correct. Expected: 18727, Got: 18727
+tr.in=0x97
+PASS: DUT output is correct. Expected: 18878, Got: 18878
+tr.in=0x4a
+PASS: DUT output is correct. Expected: 18952, Got: 18952
+tr.in=0xd4
+PASS: DUT output is correct. Expected: 19164, Got: 19164
+tr.in=0xbb
+PASS: DUT output is correct. Expected: 19351, Got: 19351
+tr.in=0xd8
+PASS: DUT output is correct. Expected: 19567, Got: 19567
+tr.in=0x90
+PASS: DUT output is correct. Expected: 19711, Got: 19711
+tr.in=0xb8
+PASS: DUT output is correct. Expected: 19895, Got: 19895
+tr.in=0xa0
+PASS: DUT output is correct. Expected: 20055, Got: 20055
+tr.in=0xc2
+PASS: DUT output is correct. Expected: 20249, Got: 20249
+tr.in=0x25
+PASS: DUT output is correct. Expected: 20286, Got: 20286
+tr.in=0xc7
+PASS: DUT output is correct. Expected: 20485, Got: 20485
+tr.in=0xe4
+PASS: DUT output is correct. Expected: 20713, Got: 20713
+tr.in=0x49
+PASS: DUT output is correct. Expected: 20786, Got: 20786
+tr.in=0x4f
+PASS: DUT output is correct. Expected: 20865, Got: 20865
+tr.in=0x80
+PASS: DUT output is correct. Expected: 20993, Got: 20993
+tr.in=0x3d
+PASS: DUT output is correct. Expected: 21054, Got: 21054
+tr.in=0x12
+PASS: DUT output is correct. Expected: 21072, Got: 21072
+tr.in=0xab
+PASS: DUT output is correct. Expected: 21243, Got: 21243
+tr.in=0xf8
+PASS: DUT output is correct. Expected: 21491, Got: 21491
+tr.in=0xdb
+PASS: DUT output is correct. Expected: 21710, Got: 21710
+tr.in=0x8c
+PASS: DUT output is correct. Expected: 21850, Got: 21850
+tr.in=0xf2
+PASS: DUT output is correct. Expected: 22092, Got: 22092
+tr.in=0xe4
+PASS: DUT output is correct. Expected: 22320, Got: 22320
+tr.in=0xe5
+PASS: DUT output is correct. Expected: 22549, Got: 22549
+tr.in=0xe1
+PASS: DUT output is correct. Expected: 22774, Got: 22774
+tr.in=0xee
+PASS: DUT output is correct. Expected: 23012, Got: 23012
+tr.in=0xaa
+PASS: DUT output is correct. Expected: 23182, Got: 23182
+tr.in=0xa0
+PASS: DUT output is correct. Expected: 23342, Got: 23342
+tr.in=0xd3
+PASS: DUT output is correct. Expected: 23553, Got: 23553
+tr.in=0xd8
+PASS: DUT output is correct. Expected: 23769, Got: 23769
+tr.in=0x1
+PASS: DUT output is correct. Expected: 23770, Got: 23770
+tr.in=0xc8
+PASS: DUT output is correct. Expected: 23970, Got: 23970
+tr.in=0x5d
+PASS: DUT output is correct. Expected: 24063, Got: 24063
+tr.in=0xe0
+PASS: DUT output is correct. Expected: 24287, Got: 24287
+tr.in=0xd9
+PASS: DUT output is correct. Expected: 24504, Got: 24504
+tr.in=0xbc
+PASS: DUT output is correct. Expected: 24692, Got: 24692
+tr.in=0x2d
+PASS: DUT output is correct. Expected: 24737, Got: 24737
+tr.in=0xe4
+PASS: DUT output is correct. Expected: 24965, Got: 24965
+tr.in=0xc1
+PASS: DUT output is correct. Expected: 25158, Got: 25158
+tr.in=0x2b
+PASS: DUT output is correct. Expected: 25201, Got: 25201
+tr.in=0xce
+PASS: DUT output is correct. Expected: 25407, Got: 25407
+tr.in=0xb3
+PASS: DUT output is correct. Expected: 25586, Got: 25586
+tr.in=0xa4
+PASS: DUT output is correct. Expected: 25750, Got: 25750
+tr.in=0xb4
+PASS: DUT output is correct. Expected: 25930, Got: 25930
+tr.in=0x1c
+PASS: DUT output is correct. Expected: 25958, Got: 25958
+tr.in=0x6d
+PASS: DUT output is correct. Expected: 26067, Got: 26067
+tr.in=0x38
+PASS: DUT output is correct. Expected: 26123, Got: 26123
+tr.in=0x1d
+PASS: DUT output is correct. Expected: 26152, Got: 26152
+tr.in=0x68
+PASS: DUT output is correct. Expected: 26256, Got: 26256
+tr.in=0x1e
+PASS: DUT output is correct. Expected: 26286, Got: 26286
+tr.in=0x5a
+PASS: DUT output is correct. Expected: 26376, Got: 26376
+tr.in=0x96
+PASS: DUT output is correct. Expected: 26526, Got: 26526
+tr.in=0xfc
+PASS: DUT output is correct. Expected: 26778, Got: 26778
+tr.in=0xd7
+PASS: DUT output is correct. Expected: 26993, Got: 26993
+tr.in=0x9d
+PASS: DUT output is correct. Expected: 27150, Got: 27150
+tr.in=0x2d
+PASS: DUT output is correct. Expected: 27195, Got: 27195
+tr.in=0x90
+PASS: DUT output is correct. Expected: 27339, Got: 27339
+tr.in=0x8f
+PASS: DUT output is correct. Expected: 27482, Got: 27482
+tr.in=0x8b
+PASS: DUT output is correct. Expected: 27621, Got: 27621
+tr.in=0x5c
+PASS: DUT output is correct. Expected: 27713, Got: 27713
+tr.in=0xf7
+PASS: DUT output is correct. Expected: 27960, Got: 27960
+tr.in=0xa1
+PASS: DUT output is correct. Expected: 28121, Got: 28121
+tr.in=0x53
+PASS: DUT output is correct. Expected: 28204, Got: 28204
+tr.in=0xed
+PASS: DUT output is correct. Expected: 28441, Got: 28441
+tr.in=0x1d
+PASS: DUT output is correct. Expected: 28470, Got: 28470
+tr.in=0x36
+PASS: DUT output is correct. Expected: 28524, Got: 28524
+tr.in=0xa8
+PASS: DUT output is correct. Expected: 28692, Got: 28692
+tr.in=0x29
+PASS: DUT output is correct. Expected: 28733, Got: 28733
+tr.in=0xb0
+PASS: DUT output is correct. Expected: 28909, Got: 28909
+tr.in=0x5
+PASS: DUT output is correct. Expected: 28914, Got: 28914
+tr.in=0x73
+PASS: DUT output is correct. Expected: 29029, Got: 29029
+tr.in=0xda
+PASS: DUT output is correct. Expected: 29247, Got: 29247
+tr.in=0x37
+PASS: DUT output is correct. Expected: 29302, Got: 29302
+tr.in=0xf2
+PASS: DUT output is correct. Expected: 29544, Got: 29544
+tr.in=0x19
+PASS: DUT output is correct. Expected: 29569, Got: 29569
+tr.in=0x84
+PASS: DUT output is correct. Expected: 29701, Got: 29701
+tr.in=0x92
+PASS: DUT output is correct. Expected: 29847, Got: 29847
+tr.in=0x69
+PASS: DUT output is correct. Expected: 29952, Got: 29952
+tr.in=0xc7
+PASS: DUT output is correct. Expected: 30151, Got: 30151
+tr.in=0xb
+PASS: DUT output is correct. Expected: 30162, Got: 30162
+tr.in=0x43
+PASS: DUT output is correct. Expected: 30229, Got: 30229
+tr.in=0x49
+PASS: DUT output is correct. Expected: 30302, Got: 30302
+tr.in=0x66
+PASS: DUT output is correct. Expected: 30404, Got: 30404
+tr.in=0x4
+PASS: DUT output is correct. Expected: 30408, Got: 30408
+tr.in=0x11
+PASS: DUT output is correct. Expected: 30425, Got: 30425
+tr.in=0x87
+PASS: DUT output is correct. Expected: 30560, Got: 30560
+tr.in=0xdd
+PASS: DUT output is correct. Expected: 30781, Got: 30781
+tr.in=0x7
+PASS: DUT output is correct. Expected: 30788, Got: 30788
+tr.in=0x19
+PASS: DUT output is correct. Expected: 30813, Got: 30813
+tr.in=0x84
+PASS: DUT output is correct. Expected: 30945, Got: 30945
+tr.in=0x6a
+PASS: DUT output is correct. Expected: 31051, Got: 31051
+tr.in=0x9c
+PASS: DUT output is correct. Expected: 31207, Got: 31207
+tr.in=0xd7
+PASS: DUT output is correct. Expected: 31422, Got: 31422
+tr.in=0xa6
+PASS: DUT output is correct. Expected: 31588, Got: 31588
+tr.in=0xda
+PASS: DUT output is correct. Expected: 31806, Got: 31806
+tr.in=0x63
+PASS: DUT output is correct. Expected: 31905, Got: 31905
+tr.in=0x54
+PASS: DUT output is correct. Expected: 31989, Got: 31989
+tr.in=0xe
+PASS: DUT output is correct. Expected: 32003, Got: 32003
+tr.in=0x98
+PASS: DUT output is correct. Expected: 32155, Got: 32155
+tr.in=0xe2
+PASS: DUT output is correct. Expected: 32381, Got: 32381
+tr.in=0x21
+PASS: DUT output is correct. Expected: 32414, Got: 32414
+tr.in=0xc
+PASS: DUT output is correct. Expected: 32426, Got: 32426
+tr.in=0xa0
+PASS: DUT output is correct. Expected: 32586, Got: 32586
+tr.in=0xcc
+PASS: DUT output is correct. Expected: 32790, Got: 32790
+tr.in=0xc0
+PASS: DUT output is correct. Expected: 32982, Got: 32982
+tr.in=0xc4
+PASS: DUT output is correct. Expected: 33178, Got: 33178
+tr.in=0x41
+PASS: DUT output is correct. Expected: 33243, Got: 33243
+tr.in=0x77
+PASS: DUT output is correct. Expected: 33362, Got: 33362
+tr.in=0xc
+PASS: DUT output is correct. Expected: 33374, Got: 33374
+tr.in=0x11
+PASS: DUT output is correct. Expected: 33391, Got: 33391
+tr.in=0x14
+PASS: DUT output is correct. Expected: 33411, Got: 33411
+tr.in=0xe6
+PASS: DUT output is correct. Expected: 33641, Got: 33641
+tr.in=0x1
+PASS: DUT output is correct. Expected: 33642, Got: 33642
+tr.in=0xd4
+PASS: DUT output is correct. Expected: 33854, Got: 33854
+tr.in=0xeb
+PASS: DUT output is correct. Expected: 34089, Got: 34089
+tr.in=0xe9
+PASS: DUT output is correct. Expected: 34322, Got: 34322
+tr.in=0xff
+PASS: DUT output is correct. Expected: 34577, Got: 34577
+tr.in=0x62
+PASS: DUT output is correct. Expected: 34675, Got: 34675
+tr.in=0x9f
+PASS: DUT output is correct. Expected: 34834, Got: 34834
+tr.in=0x7d
+PASS: DUT output is correct. Expected: 34959, Got: 34959
+tr.in=0x78
+PASS: DUT output is correct. Expected: 35079, Got: 35079
+tr.in=0x85
+PASS: DUT output is correct. Expected: 35212, Got: 35212
+tr.in=0xfe
+PASS: DUT output is correct. Expected: 35466, Got: 35466
+tr.in=0xbf
+PASS: DUT output is correct. Expected: 35657, Got: 35657
+tr.in=0xe8
+PASS: DUT output is correct. Expected: 35889, Got: 35889
+tr.in=0x32
+PASS: DUT output is correct. Expected: 35939, Got: 35939
+tr.in=0x94
+PASS: DUT output is correct. Expected: 36087, Got: 36087
+tr.in=0x21
+PASS: DUT output is correct. Expected: 36120, Got: 36120
+tr.in=0x7e
+PASS: DUT output is correct. Expected: 36246, Got: 36246
+tr.in=0xa8
+PASS: DUT output is correct. Expected: 36414, Got: 36414
+tr.in=0xe3
+PASS: DUT output is correct. Expected: 36641, Got: 36641
+tr.in=0x17
+PASS: DUT output is correct. Expected: 36664, Got: 36664
+tr.in=0xd9
+PASS: DUT output is correct. Expected: 36881, Got: 36881
+tr.in=0x64
+PASS: DUT output is correct. Expected: 36981, Got: 36981
+tr.in=0x3b
+PASS: DUT output is correct. Expected: 37040, Got: 37040
+tr.in=0x8
+PASS: DUT output is correct. Expected: 37048, Got: 37048
+tr.in=0xa7
+PASS: DUT output is correct. Expected: 37215, Got: 37215
+tr.in=0xfe
+PASS: DUT output is correct. Expected: 37469, Got: 37469
+tr.in=0x5a
+PASS: DUT output is correct. Expected: 37559, Got: 37559
+tr.in=0xf0
+PASS: DUT output is correct. Expected: 37799, Got: 37799
+tr.in=0xd6
+PASS: DUT output is correct. Expected: 38013, Got: 38013
+tr.in=0xff
+PASS: DUT output is correct. Expected: 38268, Got: 38268
+tr.in=0x16
+PASS: DUT output is correct. Expected: 38290, Got: 38290
+tr.in=0x15
+PASS: DUT output is correct. Expected: 38311, Got: 38311
+tr.in=0xf
+PASS: DUT output is correct. Expected: 38326, Got: 38326
+tr.in=0xba
+PASS: DUT output is correct. Expected: 38512, Got: 38512
+tr.in=0x68
+PASS: DUT output is correct. Expected: 38616, Got: 38616
+tr.in=0x17
+PASS: DUT output is correct. Expected: 38639, Got: 38639
+tr.in=0xaf
+PASS: DUT output is correct. Expected: 38814, Got: 38814
+tr.in=0xcd
+PASS: DUT output is correct. Expected: 39019, Got: 39019
+tr.in=0x92
+PASS: DUT output is correct. Expected: 39165, Got: 39165
+tr.in=0x7d
+PASS: DUT output is correct. Expected: 39290, Got: 39290
+tr.in=0x3c
+PASS: DUT output is correct. Expected: 39350, Got: 39350
+tr.in=0x27
+PASS: DUT output is correct. Expected: 39389, Got: 39389
+tr.in=0x19
+PASS: DUT output is correct. Expected: 39414, Got: 39414
+tr.in=0x81
+PASS: DUT output is correct. Expected: 39543, Got: 39543
+tr.in=0x46
+PASS: DUT output is correct. Expected: 39613, Got: 39613
+tr.in=0xb7
+PASS: DUT output is correct. Expected: 39796, Got: 39796
+tr.in=0x6d
+PASS: DUT output is correct. Expected: 39905, Got: 39905
+tr.in=0xdd
+PASS: DUT output is correct. Expected: 40126, Got: 40126
+tr.in=0x4d
+PASS: DUT output is correct. Expected: 40203, Got: 40203
+tr.in=0xeb
+PASS: DUT output is correct. Expected: 40438, Got: 40438
+tr.in=0x7b
+PASS: DUT output is correct. Expected: 40561, Got: 40561
+tr.in=0xa6
+PASS: DUT output is correct. Expected: 40727, Got: 40727
+tr.in=0x76
+PASS: DUT output is correct. Expected: 40845, Got: 40845
+tr.in=0x35
+PASS: DUT output is correct. Expected: 40898, Got: 40898
+tr.in=0x7f
+PASS: DUT output is correct. Expected: 41025, Got: 41025
+tr.in=0x22
+PASS: DUT output is correct. Expected: 41059, Got: 41059
+tr.in=0x3d
+PASS: DUT output is correct. Expected: 41120, Got: 41120
+tr.in=0x8e
+PASS: DUT output is correct. Expected: 41262, Got: 41262
+tr.in=0x7f
+PASS: DUT output is correct. Expected: 41389, Got: 41389
+tr.in=0xbe
+PASS: DUT output is correct. Expected: 41579, Got: 41579
+tr.in=0x9e
+PASS: DUT output is correct. Expected: 41737, Got: 41737
+tr.in=0x18
+PASS: DUT output is correct. Expected: 41761, Got: 41761
+tr.in=0xa1
+PASS: DUT output is correct. Expected: 41922, Got: 41922
+tr.in=0xd5
+PASS: DUT output is correct. Expected: 42135, Got: 42135
+tr.in=0x75
+PASS: DUT output is correct. Expected: 42252, Got: 42252
+tr.in=0x7b
+PASS: DUT output is correct. Expected: 42375, Got: 42375
+tr.in=0x78
+PASS: DUT output is correct. Expected: 42495, Got: 42495
+tr.in=0x5d
+PASS: DUT output is correct. Expected: 42588, Got: 42588
+tr.in=0xc7
+PASS: DUT output is correct. Expected: 42787, Got: 42787
+tr.in=0x6e
+PASS: DUT output is correct. Expected: 42897, Got: 42897
+tr.in=0x92
+PASS: DUT output is correct. Expected: 43043, Got: 43043
+tr.in=0x86
+PASS: DUT output is correct. Expected: 43177, Got: 43177
+tr.in=0x93
+PASS: DUT output is correct. Expected: 43324, Got: 43324
+tr.in=0xc5
+PASS: DUT output is correct. Expected: 43521, Got: 43521
+tr.in=0x99
+PASS: DUT output is correct. Expected: 43674, Got: 43674
+tr.in=0xde
+PASS: DUT output is correct. Expected: 43896, Got: 43896
+tr.in=0x4d
+PASS: DUT output is correct. Expected: 43973, Got: 43973
+tr.in=0x16
+PASS: DUT output is correct. Expected: 43995, Got: 43995
+tr.in=0x3
+PASS: DUT output is correct. Expected: 43998, Got: 43998
+tr.in=0xec
+PASS: DUT output is correct. Expected: 44234, Got: 44234
+tr.in=0xfc
+PASS: DUT output is correct. Expected: 44486, Got: 44486
+tr.in=0x2e
+PASS: DUT output is correct. Expected: 44532, Got: 44532
+tr.in=0xae
+PASS: DUT output is correct. Expected: 44706, Got: 44706
+tr.in=0x6d
+PASS: DUT output is correct. Expected: 44815, Got: 44815
+tr.in=0x3c
+PASS: DUT output is correct. Expected: 44875, Got: 44875
+tr.in=0x46
+PASS: DUT output is correct. Expected: 44945, Got: 44945
+tr.in=0x33
+PASS: DUT output is correct. Expected: 44996, Got: 44996
+tr.in=0x15
+PASS: DUT output is correct. Expected: 45017, Got: 45017
+tr.in=0x2a
+PASS: DUT output is correct. Expected: 45059, Got: 45059
+tr.in=0x5
+PASS: DUT output is correct. Expected: 45064, Got: 45064
+tr.in=0x0
+PASS: DUT output is correct. Expected: 45064, Got: 45064
+tr.in=0x57
+PASS: DUT output is correct. Expected: 45151, Got: 45151
+tr.in=0x69
+PASS: DUT output is correct. Expected: 45256, Got: 45256
+tr.in=0x97
+PASS: DUT output is correct. Expected: 45407, Got: 45407
+tr.in=0x25
+PASS: DUT output is correct. Expected: 45444, Got: 45444
+tr.in=0x48
+PASS: DUT output is correct. Expected: 45516, Got: 45516
+tr.in=0xfe
+PASS: DUT output is correct. Expected: 45770, Got: 45770
+tr.in=0xe1
+PASS: DUT output is correct. Expected: 45995, Got: 45995
+tr.in=0x4c
+PASS: DUT output is correct. Expected: 46071, Got: 46071
+tr.in=0xc0
+PASS: DUT output is correct. Expected: 46263, Got: 46263
+tr.in=0x82
+PASS: DUT output is correct. Expected: 46393, Got: 46393
+tr.in=0x3f
+PASS: DUT output is correct. Expected: 46456, Got: 46456
+tr.in=0x43
+PASS: DUT output is correct. Expected: 46523, Got: 46523
+tr.in=0xf9
+PASS: DUT output is correct. Expected: 46772, Got: 46772
+tr.in=0x86
+PASS: DUT output is correct. Expected: 46906, Got: 46906
+tr.in=0x7f
+PASS: DUT output is correct. Expected: 47033, Got: 47033
+tr.in=0x28
+PASS: DUT output is correct. Expected: 47073, Got: 47073
+tr.in=0xe8
+PASS: DUT output is correct. Expected: 47305, Got: 47305
+tr.in=0xcc
+PASS: DUT output is correct. Expected: 47509, Got: 47509
+tr.in=0x32
+PASS: DUT output is correct. Expected: 47559, Got: 47559
+tr.in=0xa0
+PASS: DUT output is correct. Expected: 47719, Got: 47719
+tr.in=0x65
+PASS: DUT output is correct. Expected: 47820, Got: 47820
+tr.in=0x2d
+PASS: DUT output is correct. Expected: 47865, Got: 47865
+tr.in=0xe3
+PASS: DUT output is correct. Expected: 48092, Got: 48092
+tr.in=0xeb
+PASS: DUT output is correct. Expected: 48327, Got: 48327
+tr.in=0xa5
+PASS: DUT output is correct. Expected: 48492, Got: 48492
+tr.in=0x57
+PASS: DUT output is correct. Expected: 48579, Got: 48579
+tr.in=0x84
+PASS: DUT output is correct. Expected: 48711, Got: 48711
+tr.in=0xa
+PASS: DUT output is correct. Expected: 48721, Got: 48721
+tr.in=0x42
+PASS: DUT output is correct. Expected: 48787, Got: 48787
+tr.in=0x5e
+PASS: DUT output is correct. Expected: 48881, Got: 48881
+tr.in=0x93
+PASS: DUT output is correct. Expected: 49028, Got: 49028
+tr.in=0x1f
+PASS: DUT output is correct. Expected: 49059, Got: 49059
+tr.in=0x96
+PASS: DUT output is correct. Expected: 49209, Got: 49209
+tr.in=0xee
+PASS: DUT output is correct. Expected: 49447, Got: 49447
+tr.in=0xfa
+PASS: DUT output is correct. Expected: 49697, Got: 49697
+tr.in=0xaf
+PASS: DUT output is correct. Expected: 49872, Got: 49872
+tr.in=0x3c
+PASS: DUT output is correct. Expected: 49932, Got: 49932
+tr.in=0xa4
+PASS: DUT output is correct. Expected: 50096, Got: 50096
+tr.in=0xfe
+PASS: DUT output is correct. Expected: 50350, Got: 50350
+tr.in=0x97
+PASS: DUT output is correct. Expected: 50501, Got: 50501
+tr.in=0x21
+PASS: DUT output is correct. Expected: 50534, Got: 50534
+tr.in=0xf5
+PASS: DUT output is correct. Expected: 50779, Got: 50779
+tr.in=0x83
+PASS: DUT output is correct. Expected: 50910, Got: 50910
+tr.in=0x2e
+PASS: DUT output is correct. Expected: 50956, Got: 50956
+tr.in=0x48
+PASS: DUT output is correct. Expected: 51028, Got: 51028
+tr.in=0x24
+PASS: DUT output is correct. Expected: 51064, Got: 51064
+tr.in=0xf5
+PASS: DUT output is correct. Expected: 51309, Got: 51309
+tr.in=0x51
+PASS: DUT output is correct. Expected: 51390, Got: 51390
+tr.in=0xa0
+PASS: DUT output is correct. Expected: 51550, Got: 51550
+tr.in=0xcd
+PASS: DUT output is correct. Expected: 51755, Got: 51755
+tr.in=0x6c
+PASS: DUT output is correct. Expected: 51863, Got: 51863
+tr.in=0x1d
+PASS: DUT output is correct. Expected: 51892, Got: 51892
+tr.in=0x97
+PASS: DUT output is correct. Expected: 52043, Got: 52043
+tr.in=0xb0
+PASS: DUT output is correct. Expected: 52219, Got: 52219
+tr.in=0xb9
+PASS: DUT output is correct. Expected: 52404, Got: 52404
+tr.in=0x37
+PASS: DUT output is correct. Expected: 52459, Got: 52459
+tr.in=0x78
+PASS: DUT output is correct. Expected: 52579, Got: 52579
+tr.in=0x65
+PASS: DUT output is correct. Expected: 52680, Got: 52680
+tr.in=0xab
+PASS: DUT output is correct. Expected: 52851, Got: 52851
+tr.in=0x93
+PASS: DUT output is correct. Expected: 52998, Got: 52998
+tr.in=0x86
+PASS: DUT output is correct. Expected: 53132, Got: 53132
+tr.in=0x7b
+PASS: DUT output is correct. Expected: 53255, Got: 53255
+tr.in=0xe8
+PASS: DUT output is correct. Expected: 53487, Got: 53487
+tr.in=0x0
+PASS: DUT output is correct. Expected: 53487, Got: 53487
+tr.in=0x77
+PASS: DUT output is correct. Expected: 53606, Got: 53606
+tr.in=0x58
+PASS: DUT output is correct. Expected: 53694, Got: 53694
+tr.in=0xe9
+PASS: DUT output is correct. Expected: 53927, Got: 53927
+tr.in=0x73
+PASS: DUT output is correct. Expected: 54042, Got: 54042
+tr.in=0xed
+PASS: DUT output is correct. Expected: 54279, Got: 54279
+tr.in=0x49
+PASS: DUT output is correct. Expected: 54352, Got: 54352
+tr.in=0x13
+PASS: DUT output is correct. Expected: 54371, Got: 54371
+tr.in=0xc8
+PASS: DUT output is correct. Expected: 54571, Got: 54571
+tr.in=0xd1
+PASS: DUT output is correct. Expected: 54780, Got: 54780
+tr.in=0x50
+PASS: DUT output is correct. Expected: 54860, Got: 54860
+tr.in=0x2
+PASS: DUT output is correct. Expected: 54862, Got: 54862
+tr.in=0xa6
+PASS: DUT output is correct. Expected: 55028, Got: 55028
+tr.in=0x89
+PASS: DUT output is correct. Expected: 55165, Got: 55165
+tr.in=0x72
+PASS: DUT output is correct. Expected: 55279, Got: 55279
+tr.in=0xc3
+PASS: DUT output is correct. Expected: 55474, Got: 55474
+tr.in=0xb
+PASS: DUT output is correct. Expected: 55485, Got: 55485
+tr.in=0x3b
+PASS: DUT output is correct. Expected: 55544, Got: 55544
+tr.in=0x7
+PASS: DUT output is correct. Expected: 55551, Got: 55551
+tr.in=0xd6
+PASS: DUT output is correct. Expected: 55765, Got: 55765
+tr.in=0x31
+PASS: DUT output is correct. Expected: 55814, Got: 55814
+tr.in=0x51
+PASS: DUT output is correct. Expected: 55895, Got: 55895
+tr.in=0x40
+PASS: DUT output is correct. Expected: 55959, Got: 55959
+tr.in=0xe1
+PASS: DUT output is correct. Expected: 56184, Got: 56184
+tr.in=0x74
+PASS: DUT output is correct. Expected: 56300, Got: 56300
+tr.in=0x63
+PASS: DUT output is correct. Expected: 56399, Got: 56399
+tr.in=0xe7
+PASS: DUT output is correct. Expected: 56630, Got: 56630
+tr.in=0x13
+PASS: DUT output is correct. Expected: 56649, Got: 56649
+tr.in=0x9
+PASS: DUT output is correct. Expected: 56658, Got: 56658
+tr.in=0x2
+PASS: DUT output is correct. Expected: 56660, Got: 56660
+tr.in=0xc7
+PASS: DUT output is correct. Expected: 56859, Got: 56859
+tr.in=0xed
+PASS: DUT output is correct. Expected: 57096, Got: 57096
+tr.in=0x32
+PASS: DUT output is correct. Expected: 57146, Got: 57146
+tr.in=0x1a
+PASS: DUT output is correct. Expected: 57172, Got: 57172
+tr.in=0xde
+PASS: DUT output is correct. Expected: 57394, Got: 57394
+tr.in=0x64
+PASS: DUT output is correct. Expected: 57494, Got: 57494
+tr.in=0xdf
+PASS: DUT output is correct. Expected: 57717, Got: 57717
+tr.in=0xc
+PASS: DUT output is correct. Expected: 57729, Got: 57729
+tr.in=0x2f
+PASS: DUT output is correct. Expected: 57776, Got: 57776
+tr.in=0x4b
+PASS: DUT output is correct. Expected: 57851, Got: 57851
+tr.in=0x9e
+PASS: DUT output is correct. Expected: 58009, Got: 58009
+tr.in=0x49
+PASS: DUT output is correct. Expected: 58082, Got: 58082
+tr.in=0x20
+PASS: DUT output is correct. Expected: 58114, Got: 58114
+tr.in=0xbe
+PASS: DUT output is correct. Expected: 58304, Got: 58304
+tr.in=0x2a
+PASS: DUT output is correct. Expected: 58346, Got: 58346
+tr.in=0x3c
+PASS: DUT output is correct. Expected: 58406, Got: 58406
+tr.in=0xca
+PASS: DUT output is correct. Expected: 58608, Got: 58608
+tr.in=0xae
+PASS: DUT output is correct. Expected: 58782, Got: 58782
+tr.in=0x60
+PASS: DUT output is correct. Expected: 58878, Got: 58878
+tr.in=0xb
+PASS: DUT output is correct. Expected: 58889, Got: 58889
+tr.in=0x8c
+PASS: DUT output is correct. Expected: 59029, Got: 59029
+tr.in=0x9d
+PASS: DUT output is correct. Expected: 59186, Got: 59186
+tr.in=0x41
+PASS: DUT output is correct. Expected: 59251, Got: 59251
+tr.in=0x1a
+PASS: DUT output is correct. Expected: 59277, Got: 59277
+tr.in=0x10
+PASS: DUT output is correct. Expected: 59293, Got: 59293
+tr.in=0xf7
+PASS: DUT output is correct. Expected: 59540, Got: 59540
+tr.in=0x55
+PASS: DUT output is correct. Expected: 59625, Got: 59625
+tr.in=0x3
+PASS: DUT output is correct. Expected: 59628, Got: 59628
+tr.in=0xc6
+PASS: DUT output is correct. Expected: 59826, Got: 59826
+tr.in=0xac
+PASS: DUT output is correct. Expected: 59998, Got: 59998
+tr.in=0xcd
+PASS: DUT output is correct. Expected: 60203, Got: 60203
+tr.in=0x27
+PASS: DUT output is correct. Expected: 60242, Got: 60242
+tr.in=0x4a
+PASS: DUT output is correct. Expected: 60316, Got: 60316
+tr.in=0xb
+PASS: DUT output is correct. Expected: 60327, Got: 60327
+tr.in=0x7f
+PASS: DUT output is correct. Expected: 60454, Got: 60454
+tr.in=0xdb
+PASS: DUT output is correct. Expected: 60673, Got: 60673
+tr.in=0x7f
+PASS: DUT output is correct. Expected: 60800, Got: 60800
+tr.in=0x4b
+PASS: DUT output is correct. Expected: 60875, Got: 60875
+tr.in=0xc1
+PASS: DUT output is correct. Expected: 61068, Got: 61068
+tr.in=0xc3
+PASS: DUT output is correct. Expected: 61263, Got: 61263
+tr.in=0xda
+PASS: DUT output is correct. Expected: 61481, Got: 61481
+tr.in=0x79
+PASS: DUT output is correct. Expected: 61602, Got: 61602
+tr.in=0xdb
+PASS: DUT output is correct. Expected: 61821, Got: 61821
+tr.in=0xfc
+PASS: DUT output is correct. Expected: 62073, Got: 62073
+tr.in=0xaf
+PASS: DUT output is correct. Expected: 62248, Got: 62248
+tr.in=0x8a
+PASS: DUT output is correct. Expected: 62386, Got: 62386
+tr.in=0x5f
+PASS: DUT output is correct. Expected: 62481, Got: 62481
+tr.in=0x41
+PASS: DUT output is correct. Expected: 62546, Got: 62546
+tr.in=0xf
+PASS: DUT output is correct. Expected: 62561, Got: 62561
+tr.in=0xcd
+PASS: DUT output is correct. Expected: 62766, Got: 62766
+tr.in=0x15
+PASS: DUT output is correct. Expected: 62787, Got: 62787
+tr.in=0xde
+PASS: DUT output is correct. Expected: 63009, Got: 63009
+tr.in=0x8f
+PASS: DUT output is correct. Expected: 63152, Got: 63152
+tr.in=0xd6
+PASS: DUT output is correct. Expected: 63366, Got: 63366
+tr.in=0x24
+PASS: DUT output is correct. Expected: 63402, Got: 63402
+tr.in=0x81
+PASS: DUT output is correct. Expected: 63531, Got: 63531
+tr.in=0x7c
+PASS: DUT output is correct. Expected: 63655, Got: 63655
+tr.in=0xf1
+PASS: DUT output is correct. Expected: 63896, Got: 63896
+tr.in=0x67
+PASS: DUT output is correct. Expected: 63999, Got: 63999
+tr.in=0x25
+PASS: DUT output is correct. Expected: 64036, Got: 64036
+tr.in=0x1d
+PASS: DUT output is correct. Expected: 64065, Got: 64065
+tr.in=0xff
+PASS: DUT output is correct. Expected: 64320, Got: 64320
+tr.in=0xbb
+PASS: DUT output is correct. Expected: 64507, Got: 64507
+tr.in=0x45
+PASS: DUT output is correct. Expected: 64576, Got: 64576
+tr.in=0xd9
+PASS: DUT output is correct. Expected: 64793, Got: 64793
+tr.in=0xfb
+PASS: DUT output is correct. Expected: 65044, Got: 65044
+tr.in=0xa6
+PASS: DUT output is correct. Expected: 65210, Got: 65210
+tr.in=0xf0
+PASS: DUT output is correct. Expected: 65450, Got: 65450
+tr.in=0x73
+PASS: DUT reached Saturation and the expected sum is greater than Accumululator
+tr.in=0xf3
+*********Sum output saturated to 16'hFFFF; Finishing simulation**********
+$finish called from file "./driver.sv", line 70.
+$finish at simulation time              5035000
+Simulation complete, time is 5035000 ps.
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5035000 ps
+CPU Time:      1.800 seconds;       Data structure size:   0.0Mb
+Wed Jul 31 11:34:55 2024

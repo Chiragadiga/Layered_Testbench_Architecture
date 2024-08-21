@@ -1,0 +1,55 @@
+global coverage_group 0 $unit::scoreboard::cov __coverage_scoreboard.cov unused_scoreboard_cov_loop_label $unit 0 0 0 1 $unit::./accumulator.v::./driver.sv...@4286234733 0  ( 0 
+)
+ 1 1
+ 47 /Users/students/cadiga/DV/850/850/scoreboard.sv
+ 8 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 53 scoreboard::_vcs_unit__4286234733_scoreboard_cov_fn_0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+1
+0
+0
+0
+ 11 my_func_cov 10 0 0 0 0 51 scoreboard::_vcs_unit__4286234733_scoreboard_cov_fn 51 scoreboard::_vcs_unit__4286234733_scoreboard_cov_fn 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 8 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+end_coverage_group
